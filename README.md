@@ -6,8 +6,6 @@ I use the math formula witch based on _Combinations(C)_ to find a nth line of a 
 _C(n, 0), C(n, 1), C(n, 2,), ... , C(n, n)_
 
 ## Quickstart
-  * Download and import [math-factorial](https://github.com/mix0000/math-factorial). 
-  * Download and import [math-combinations](https://github.com/mix0000/math-combinations).
   * Download `pascal-triangle.js` and import it with `<script>` tag or ES6 `import`.
   * Now you can use the combinations as,
    ```javascript
